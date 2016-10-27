@@ -39,7 +39,7 @@ docs_require = [
 ]
 
 dependency_links = [
-    'git+https://github.com/bigchaindb/bigchaindb.git@master#egg=bigchaindb-0.7.0',
+    'git+https://github.com/sbellem/bigchaindb.git@0.7.0.dev#egg=bigchaindb-0.7.0',
 ]
 
 setup(
